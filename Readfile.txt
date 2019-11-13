@@ -1,0 +1,29 @@
+Drink
+Freddy Fudpucker
+Ingredient
+Tequila
+liquid
+40
+low
+Ingredient
+Galliano
+liquid
+42
+low
+Ingredient
+Orange Juice
+liquid
+0
+low
+End
+Materials
+Collins Glass
+End
+Steps
+Fill up the Collins Glass with Ice
+Pour Orange Juice, Tequila into the Glass
+Stir together
+Pour Galliano into the glass
+End
+Alcohol Content
+Medium
