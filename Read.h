@@ -15,7 +15,6 @@ private:
 	type drinktype;
 	string sprice;
 	price dPrice;
-	ifstream fin;
 	int proof;
 
 
