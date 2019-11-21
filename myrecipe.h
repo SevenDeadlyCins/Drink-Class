@@ -10,13 +10,13 @@ using namespace std;
 //Class declaration
 class Recipe
 {
-public:
+private:
 	vector<string> recipeList;
 	vector<string> reqMaterials;
 	vector<Ingredient> ingredientList;
 	friend class Read;
 
-
+public:
 	Recipe();
 	~Recipe();
 	void readDrinkName();
@@ -26,5 +26,5 @@ public:
 	void displayMaterials();
 	Recipe addIngredient(Ingredient newIngredient);
 	void displayIngredients();
-	void readDrinks();
+	int getIngredientListSize();
 };
