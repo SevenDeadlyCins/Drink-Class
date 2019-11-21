@@ -8,15 +8,14 @@ using namespace std;
 //Class declaration
 class Drink
 {
-public:
+private:
 	string name;
 	Recipe rec;
 	string alc_cont;
 	string description;
-	//visit num_vis;
-	//Picture pic;
+	friend class Read;
 
-
+public:
 	Drink();
 	~Drink();
 	Drink(string drinkName, Recipe recip, string content);
@@ -25,6 +24,3 @@ public:
 	void setName(string drinkName);
 	void displayDrink();
 };
-
-//(Alc content * Liquor Volume) / Drink Volume
-//0 = None, 1-25 = Light, 26-50 Medium, 50+ = Heavy
