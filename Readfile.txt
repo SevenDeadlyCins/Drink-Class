@@ -26,4 +26,175 @@ Stir together
 Pour Galliano into the glass
 End
 Alcohol Content
-Medium
+13
+Drink
+Daiquiri
+Ingredient
+White Rum
+liquid
+80
+mid
+Ingredient
+Lime Juice
+liquid
+0
+low
+Ingredient
+Simple Syrup
+liquid
+0
+low
+End
+Materials
+Shaker
+Strainer
+Cocktail Glass
+End
+Steps
+Fill up the Shaker with Ice
+Pour Lime Juice, Simple Syrup & White Rum into the Shaker
+Shake well
+Strain into the Cocktail Glass
+Garnish with Lime Slice
+End
+Alcohol Content
+18
+Drink
+Pina Colada
+Ingredient
+White Rum
+liquid
+40
+low
+Ingredient
+Coconut Cream
+liquid
+0
+low
+Ingredient
+Cocktail Cherry
+garnish
+0
+low
+Ingredient
+Pineapple Wedge
+garnish
+0
+low
+Ingredient
+Pineapple Juice
+liquid
+0
+low
+End
+Materials
+Blender
+Hurricane Glass
+End
+Steps
+Add Ice to the Blender
+Add Pineapple Juice, Coconut Cream, White Rum to the Blender
+Blend together
+Strain into the Hurricane Glass
+Garnish with Cocktail Cherry, Pineapple Wedge
+End
+Alcohol Content
+6
+Drink
+White Russian
+Ingredient
+Vodka
+liquid
+40
+low
+Ingredient
+Kahlua Coffee liqueur
+liquid
+20
+low
+Ingredient
+Cream
+liquid
+0
+low
+End
+Materials
+Shaker
+Strainer
+Old Fashioned Glass
+End
+Steps
+Fill up the Old Fashioned Glass with Ice
+Pour Vodka, Kahlua Coffee liqueur & Cream into the Old Fashioned Glass
+Stir together
+End
+Alcohol Content
+19
+Drink
+Bellini
+Ingredient
+Prosecco
+liquid
+11
+low
+Ingredient
+Peach puree
+garnish
+0
+low
+End
+Materials
+Barspoon
+Champagne Glass
+End
+Steps
+Pour Prosecco, Peach puree into the Champagne Glass
+Stir together
+End
+Alcohol Content
+8
+Drink
+Champagne Cocktail
+Ingredient
+Champagne
+liquid
+12
+mid
+Ingredient
+Cognac
+liquid
+40
+mid
+Ingredient
+Angostura Bitters
+liquid
+44.7
+mid
+Ingredient
+Sugar Cube
+garnish
+0
+low
+Ingredient
+Orange Wheel
+garnish
+0
+low
+Ingredient
+Cocktail Cherry
+garnish
+0
+low
+End
+Materials
+Champagne Glass
+End
+Steps
+Drop the Sugar Cube into the Champagne Glass
+Add Angostura Bitters drop by drop
+Add Cognac to the Glass
+Fill up the Glass with Champagne
+Garnish with Orange Wheel, Cocktail Cherry
+End
+Alcohol Content
+17
