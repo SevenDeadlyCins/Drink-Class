@@ -32,18 +32,18 @@ void Drink::setName(string drinkName)
 	name = drinkName;
 }
 
-/*
+
 void Drink::displayDrink()
 {
 	cout << name << " Recipe" << endl << endl;
 	cout << "Required Materials:\n";
 	rec.displayMaterials();
 	cout << endl;
-	cout << "Steps \n";
+	cout << "Ingredients List:\n";
+	rec.displayIngredients();
+	cout << "\nSteps \n";
 	rec.displayRecipe();
 	cout << "Alcohol Content:\n";
 	cout << alc_cont << endl << endl;
-	rec.displayIngredients();
-	
+	cout << endl;
 }
-*/
