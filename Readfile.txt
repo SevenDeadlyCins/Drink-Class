@@ -198,3 +198,616 @@ Garnish with Orange Wheel, Cocktail Cherry
 End
 Alcohol Content
 17
+Drink
+Negroni
+Ingredient
+Gin
+liquid
+40
+mid
+Ingredient
+Sweet Vermouth
+liquid
+18
+low
+Ingredient
+Campari
+liquid
+25
+high
+Ingredient
+Orange Wedge
+garnish
+0
+low
+End
+Materials
+Barspoon
+Old Fashioned Glass
+End
+Steps
+Fill up the Old Fashioned Glass with Ice
+Pour Campari, Sweet Vermouth, Gin into the Glass
+Stir together
+Garnish with Orange Wedge
+End
+Alcohol Content
+23
+Drink
+Whiskey Sour
+Ingredient
+Bourbon
+liquid
+40
+high
+Ingredient
+Lemon Juice
+liquid
+0
+low
+Ingredient
+Simple Syrup
+liquid
+0
+low
+End
+Materials
+Shaker
+Strainer
+Sour Glass
+End
+Steps
+Fill up the Shaker with Ice
+Pour Lemon Juice, Simple Syrup, Bourbon into the Shaker
+Shake well
+Strain into the Sour Glass
+End
+Alcohol Content
+15
+Drink
+Old Fashioned
+Ingredient
+Bourbon
+liquid
+40
+high
+Ingredient
+Angostura Bitters
+liquid
+44.7
+mid
+Ingredient
+Water
+liquid
+0
+low
+Ingredient
+Sugar Cube
+garnish
+0
+low
+Ingredient
+Orange Slice
+garnish
+0
+low
+Ingredient
+Cocktail Cherry
+garnish
+0
+low
+End
+Materials
+Muddler
+Old Fashioned Glass
+End
+Steps
+Add Sugar Cube to the Old Fashioned Glass
+Pour Water, Angostura Bitters into the Old Fashioned Glass
+Crush Sugar Cube, Water Angostura Bitters with Muddler
+Fill up the Old Fashioned Glass with Ice Cubes
+Pour Bourbon into the Old Fashioned Glass
+Garnish with Orange Slice, Cocktail Cherry
+End
+Alcohol Content
+29
+Drink
+Dark And Stormy
+Ingredient
+Dark Rum
+liquid
+40
+mid
+Ingredient
+Ginger Beer
+liquid
+0
+low
+Ingredient
+Lime Wedge
+garnish
+0
+low
+End
+Materials
+Collins Glass
+End
+Steps
+Fill up the Collins Glass with Ice Cubes
+Pour Dark Rum into the Collings Glass
+Pour Ginger Beer into the Collins Glass
+Garnish with Lime Wedge
+End
+Alcohol Content
+12
+Drink
+Manhattan
+Ingredient
+Rye Whiskey
+liquid
+40
+high
+Ingredient
+Sweet Vermouth
+liquid
+18
+low
+Ingredient
+Angostura Bitters
+liquid
+44.7
+mid
+Ingredient
+Cocktail Cherry
+garnish
+0
+low
+End
+Materials
+Mixing Glass
+Barspoon
+Cocktail Glass
+End
+Steps
+Fill up the Mixer Glass with Ice Cubes
+Pour Angostura Bitters, Sweet Vermouth, Rye Whiskey into the Mixing Glass
+Stir together
+Strain into the Cocktail Glass
+Garnish with Cocktail Cherry
+End
+Alcohol Content
+27
+Drink
+Dry Martini
+Ingredient
+Gin
+liquid
+40
+mid
+Ingredient
+Dry Vermouth
+liquid
+18
+mid
+Ingredient
+Olive
+garnish
+0
+low
+Ingredient
+Lemon Twist
+garnish
+0
+low
+End
+Materials
+Mixing Glass
+Barspoon
+Cocktail Glass
+End
+Steps
+Add Ice Cubes to the Mixer Glass
+Pour Gin, Dry Vermouth into the Mixer Glass
+Stir Together
+Strain into the Cocktail Glass
+Garnish with Olive and Lemon Twist
+End
+Alcohol Content
+30
+Drink
+Espresso Martini
+Ingredient
+Vodka
+liquid
+40
+low
+Ingredient
+Coffee Liqueur
+liquid
+20
+low
+Ingredient
+Simple Syrup
+liquid
+0
+low
+Ingredient
+Coffee
+liquid
+0
+low
+End
+Materials
+Shaker
+Strainer
+Cocktail Glass
+End
+Steps
+Fill up the Shaker with Ice Cubes
+Pour Vodka, Simple Syrup, Coffee Liqueur & Coffee into the Shaker
+Shake Well
+Strain into the Cocktail Glass
+End
+Alcohol Content
+15
+Drink
+Long Island Ice Tea
+Ingredient
+Gin
+liquid
+40
+mid
+Ingredient
+Tequila
+liquid
+40
+low
+Ingredient
+White Rum
+liquid
+80
+mid
+Ingredient
+Triple sec
+liquid
+40
+mid
+Ingredient
+Simple Syrup
+liquid
+0
+low
+Ingredient
+Lemon Juice
+liquid
+0
+low
+Ingredient
+Cola
+liquid
+0
+low
+Ingredient
+Lemon Wedge
+garnish
+0
+low
+End
+Materials
+Barspoon
+Collins Glass
+End
+Steps
+Fill up the Collins Glass with Ice Cubes
+Pour Simple Syrup, Lemon Juice, Gin, Triple sec, White Rum, Vodka, & Tequila into the Glass
+Stir Together
+Fill up the Glass with Cola
+Garnish with Lemon Wedge
+End
+Alcohol Content
+20
+Drink
+B52
+Ingredient
+Grand Marnier
+liquid
+40
+high
+Ingredient
+Coffee Liqueur
+liquid
+20
+low
+Ingredient
+Baileys Irish Cream liqueur
+liquid
+17
+mid
+End
+Materials
+Barspoon
+Shot Glass
+End
+Steps
+Pour Coffee Liqueur into the Shot Glass
+Gently layer the Baileys Irish Cream liqueur
+Gently layer the Grand Marnier
+End
+Alcohol Content
+26
+Drink
+Margarita
+Ingredient
+Tequila
+liquid
+40
+mid
+Ingredient
+Cointreau
+liquid
+40
+mid
+Ingredient
+Lime Juice
+liquid
+0
+low
+Ingredient
+Lime Wedge
+garnish
+0
+low
+End
+Materials
+Shaker
+Strainer
+Margarita Glass
+End
+Steps
+Garnish with Salt Rim
+Fill up the Shaker with Ice Cubes
+Pour Lime Juice, Cointreau, Tequila into the Shaker
+Shake Well
+Strain into the Glass
+Garnish with Lime Wedge
+End
+Alcohol Content
+30
+Drink
+Moscow Mule
+Ingredient
+Vodka
+liquid
+40
+mid
+Ingredient
+Lime Juice
+liquid
+0
+low
+Ingredient
+Ginger Beer
+liquid
+0
+low
+Ingredient
+Lime Wedge
+garnish
+0
+low
+End
+Materials
+Barspoon
+Collins Glass
+End
+Steps
+Add Ice to the Collins Glass
+Pour Vodka, Ginger Beer into the Collins Glass
+Add Lime Juice to the Collins Glass
+Garnish with Lime Wedge
+End
+Alcohol Content
+9
+Drink
+Mojito
+Ingredient
+White Rum
+liquid
+40
+mid
+Ingredient
+Simple Syrup
+liquid
+0
+low
+Ingredient
+Lime Juice
+liquid
+0
+low
+Ingredient
+Club Soda
+liquid
+0
+low
+Ingredient
+Mint Leaves
+garnish
+0
+low
+Ingredient
+Lime Wedges
+garnish
+0
+low
+End
+Materials
+Muddler
+Collins Glass
+End
+Steps
+Add Sugar & Mint Leaves to the Collins Glass
+Pour Lime Juice into the Glass
+Crush Lime Juice, Sugar, Mint Leaves with Muddler
+Fill up the Glass with Crushed Ice
+Pour White Rum into the Glass
+Fill up the Glass with Club Soda
+Garnish with Mint Leaves, Lime Wedges
+End
+Alcohol Content
+9
+Drink
+Bloody Mary
+Ingredient
+Vodka
+liquid
+40
+mid
+Ingredient
+Lemon Juice
+liquid
+0
+low
+Ingredient
+Tomato Juice
+liquid
+0
+low
+Ingredient
+Worcestershire sauce
+liquid
+0
+low
+Ingredient
+Tabasco Sauce
+liquid
+0
+low
+Ingredient
+Pepper
+garnish
+0
+low
+Ingredient
+Salt
+garnish
+0
+low
+Ingredient
+Lemon Slice
+garnish
+0
+low
+Ingredient
+Celery
+garnish
+0
+low
+End
+Materials
+Barspoon
+Collins Glass
+End
+Steps
+Fill up the Collins Glass with Ice Cubes
+Pour Lemon Juice, Vodka into the Glass
+Add Salt, Worcestershire sauce, Tabasco Sauce & Pepper to the Collins Glass
+Fill up the Glass with Tomato Juice
+Stir together
+Garnish with Lemon Slice & Celery
+End
+Alcohol Content
+8
+Drink
+Mai Tai
+Ingredient
+White Rum
+liquid
+40
+mid
+Ingredient
+Dark Rum
+liquid
+40
+mid
+Ingredient
+Orange Curacao
+liquid
+40
+mid
+Ingredient
+Orgeat Syrup
+liquid
+0
+low
+Ingredient
+Lime Juice
+liquid
+0
+low
+Ingredient
+Lime Wheel
+garnish
+0
+low
+Ingredient
+Mint Leaves
+garnish
+0
+low
+Ingredient
+Pineapple Wedges
+garnish
+0
+low
+End
+Materials
+Shaker
+Strainer
+Collins Glass
+End
+Steps
+Fill up the Glass with Ice
+Fill up the Shaker with Ice Cubes
+Pour Lime Juice, Orange Curacao, Dark Rum & White Rum into the Shaker
+Shake Well
+Strain into the Collins Glass
+Garnish with Lime Wheel, Mint Leaves & Pineapple Wedges
+End
+Alcohol Content
+26
+Drink
+Gimlet
+Ingredient
+Gin
+liquid
+40
+mid
+Ingredient
+Lime Juice
+liquid
+0
+low
+Ingredient
+Simple Syrup
+liquid
+0
+low
+Ingredient
+Lime wheel
+garnish
+0
+low
+End
+Materials
+Shaker
+Strainer
+Cocktail Glass
+End
+Steps
+Pour Gin, Lime Juice, Simple Syrup & Ice into the Shaker
+Shake well
+Strain into the Cocktail Glass
+Garnish with Lime Wheel
+End
+20
